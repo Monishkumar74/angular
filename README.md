@@ -1,8 +1,15 @@
 # angular login & Register frontend project
-Register Form Validation \n
-Register API Integration \n
-store Token \n
-login Form Validation\n
-Login API Integration\n
+Register Form Validation   
+
+Register API Integration 
+
+store Token 
+
+login Form Validation
+
+Login API Integration
+
+
+
 
 using REST-API by Firebase 
